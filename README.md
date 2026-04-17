@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+  I'm currently a nobody in China,juest as a freshman in a normal university,majored in artificial intelligence. 
 <!--
 **govan4671-web/govan4671-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
